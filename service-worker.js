@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BardsBallad/precache-manifest.90af238d650635b59bf8eff5d6d605ed.js"
+  "/BardsBallad/precache-manifest.718e96b536bf434f72df94d79d4c1c65.js"
 );
 
 workbox.clientsClaim();
