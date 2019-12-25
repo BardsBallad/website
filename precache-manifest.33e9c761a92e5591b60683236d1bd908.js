@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b3cff2c3414e9bf721f3f0e217a96ba",
+    "revision": "8db1b856183be1bf19d2ed34d2e658fa",
     "url": "/BardsBallad/index.html"
   },
   {
-    "revision": "e07783895f963c710493",
+    "revision": "6652ad338f824ffcface",
     "url": "/BardsBallad/static/css/main.36ab39b1.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BardsBallad/static/js/2.5a59d8e5.chunk.js"
   },
   {
-    "revision": "e07783895f963c710493",
-    "url": "/BardsBallad/static/js/main.a82a3f09.chunk.js"
+    "revision": "6652ad338f824ffcface",
+    "url": "/BardsBallad/static/js/main.df94c27e.chunk.js"
   },
   {
     "revision": "a9cd164ff4af42cd3f12",

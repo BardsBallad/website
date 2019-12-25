@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BardsBallad/static/css/main.36ab39b1.chunk.css",
-    "main.js": "/BardsBallad/static/js/main.a82a3f09.chunk.js",
-    "main.js.map": "/BardsBallad/static/js/main.a82a3f09.chunk.js.map",
+    "main.js": "/BardsBallad/static/js/main.df94c27e.chunk.js",
+    "main.js.map": "/BardsBallad/static/js/main.df94c27e.chunk.js.map",
     "runtime~main.js": "/BardsBallad/static/js/runtime~main.3bfed974.js",
     "runtime~main.js.map": "/BardsBallad/static/js/runtime~main.3bfed974.js.map",
     "static/js/2.5a59d8e5.chunk.js": "/BardsBallad/static/js/2.5a59d8e5.chunk.js",
     "static/js/2.5a59d8e5.chunk.js.map": "/BardsBallad/static/js/2.5a59d8e5.chunk.js.map",
     "index.html": "/BardsBallad/index.html",
-    "precache-manifest.008318b1e08a91a40f8eef16c5019ec6.js": "/BardsBallad/precache-manifest.008318b1e08a91a40f8eef16c5019ec6.js",
+    "precache-manifest.33e9c761a92e5591b60683236d1bd908.js": "/BardsBallad/precache-manifest.33e9c761a92e5591b60683236d1bd908.js",
     "service-worker.js": "/BardsBallad/service-worker.js",
     "static/css/main.36ab39b1.chunk.css.map": "/BardsBallad/static/css/main.36ab39b1.chunk.css.map",
     "static/media/fonts.css": "/BardsBallad/static/media/OpenSans-Semibold.33f225b8.ttf",
