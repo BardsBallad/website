@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BardsBallad/precache-manifest.33e9c761a92e5591b60683236d1bd908.js"
+  "/BardsBallad/precache-manifest.e81c58df9f67ae55325195b7d1631067.js"
 );
 
 self.addEventListener('message', (event) => {
