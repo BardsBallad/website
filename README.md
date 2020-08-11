@@ -1,2 +1,2 @@
-# BardsBalladMobile
-Mobile app for Bards Ballad built in React-Native
+# Website
+This is the code for BardsBallads website.
