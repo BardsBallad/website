@@ -7,7 +7,7 @@
     "jwt-decode": "^2.2.0",
     "lodash.clonedeep": "^4.5.0",
     "lodash.merge": "^4.6.1",
-    "nanoid": "^2.0.3",
+    "nanoid": "^3.1.31",
     "nanoid-dictionary": "^2.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
